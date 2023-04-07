@@ -12,6 +12,12 @@ class Team:
 
         self.mu = (self.rating-1500) / 173.7178
         self.phi = self.RD / 173.7178
+        
+        if math.isnan(self.mu):
+            raise Exception("Nan Mu here " + str(name) + " " +  str(initial_rating) + " " +  str(self.rating))
+        if math.isnan(self.phi):
+            raise Exception("Nan Phi here "+ str(name) + " " + str(initial_rating) + " " +  str(self.rating))
+        
     
     def updateMu(self):
         self.mu = (self.rating-1500) / 173.7178
@@ -95,6 +101,9 @@ def ratingUpdate(homeTeam, awayTeam, scoreDifferential):
 
     homeTeam.updatePhi()
     awayTeam.updatePhi()
+    
+#     if math.isnan(homeTeam.mu) or math.isnan(awayTeam.mu):
+#         print('here', homeTeam.mu, awayTeam.mu, homeTeam, awayTeam)
 
     homeV = v(homeTeam.mu, awayTeam.mu, awayTeam.phi)
     awayV = v(awayTeam.mu, homeTeam.mu, homeTeam.phi)
@@ -110,6 +119,7 @@ def ratingUpdate(homeTeam, awayTeam, scoreDifferential):
 
     homePhiPrime = 1/math.sqrt(1/(homeRateDev**2) + 1/homeV)
     awayPhiPrime = 1/math.sqrt(1/(awayRateDev**2) + 1/awayV)
+    
 
     homeMuPrime = homeTeam.mu + homePhiPrime**2 * g(awayTeam.phi)*(homeScore-E(homeTeam.mu, awayTeam.mu, awayTeam.phi))
     awayMuPrime = awayTeam.mu + awayPhiPrime**2 * g(homeTeam.phi)*(awayScore-E(awayTeam.mu, homeTeam.mu, homeTeam.phi))
@@ -119,6 +129,8 @@ def ratingUpdate(homeTeam, awayTeam, scoreDifferential):
 
     homeTeam.setRD(173.7178*homePhiPrime)
     awayTeam.setRD(173.7178*awayPhiPrime)
+    
+    return (homeTeam, awayTeam)
 
 
 
