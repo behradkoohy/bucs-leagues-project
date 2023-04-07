@@ -113,14 +113,9 @@ def ratingUpdate(homeTeam, awayTeam, scoreDifferential):
 
     homeMuPrime = homeTeam.mu + homePhiPrime**2 * g(homeTeam.phi)*(homeScore-E(homeTeam.mu, awayTeam.mu, awayTeam.phi))
     awayMuPrime = awayTeam.mu + awayPhiPrime**2 * g(awayTeam.phi)*(awayScore-E(awayTeam.mu, homeTeam.mu, homeTeam.phi))
-    if (homeMuPrime*173.7178 > -1400):
-        homeTeam.setRating(1500 + 173.7178*homeMuPrime)
-    else:
-        homeTeam.setRating(100)
-    if (awayMuPrime*173.7178 > -1400):
-        awayTeam.setRating(1500 + 173.7178*awayMuPrime)
-    else:
-        awayTeam.setRating(100)
+    
+    homeTeam.setRating(1500 + 173.7178*homeMuPrime)
+    awayTeam.setRating(1500 + 173.7178*awayMuPrime)
 
     homeTeam.setRD(173.7178*homePhiPrime)
     awayTeam.setRD(173.7178*awayPhiPrime)
