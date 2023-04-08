@@ -1,10 +1,10 @@
 import math
 
-tau = 0.1
+tau = 0.2
 convergence = 0.000001
 
 class Team:
-    def __init__(self, name, initial_rating, initial_deviation=150, initial_volatility=0.06):
+    def __init__(self, name, initial_rating, initial_deviation=350, initial_volatility=0.06):
         self.name = name
         self.rating = initial_rating
         self.RD = initial_deviation
@@ -123,111 +123,111 @@ def ratingUpdate(homeTeam, awayTeam, scoreDifferential):
 
 
 
+if __name__ == "__main__":
 
+    wes = Team("Southampton", 1000)
+    winch = Team("Winchester", 1000)
+    rau = Team("RAU", 1000)
+    ply = Team("Plymouth", 1000)
+    The4s = Team("4s", 1000)
 
-wes = Team("Southampton", 1000)
-winch = Team("Winchester", 1000)
-rau = Team("RAU", 1000)
-ply = Team("Plymouth", 1000)
-The4s = Team("4s", 1000)
+    WesRating = []
+    WinchRating = []
+    RauRating = []
+    PlyRating = []
+    The4sRating = []
 
-WesRating = []
-WinchRating = []
-RauRating = []
-PlyRating = []
-The4sRating = []
+    ratingUpdate(winch, ply, 3)
+    WinchRating.append(winch.rating)
+    PlyRating.append(ply.rating)
 
-ratingUpdate(winch, ply, 3)
-WinchRating.append(winch.rating)
-PlyRating.append(ply.rating)
+    ratingUpdate(wes, The4s, 5)
+    WesRating.append(wes.rating)
+    The4sRating.append(The4s.rating)
 
-ratingUpdate(wes, The4s, 5)
-WesRating.append(wes.rating)
-The4sRating.append(The4s.rating)
+    ratingUpdate(rau, winch, 1)
+    RauRating.append(rau.rating)
+    WinchRating.append(winch.rating)
 
-ratingUpdate(rau, winch, 1)
-RauRating.append(rau.rating)
-WinchRating.append(winch.rating)
+    ratingUpdate(wes, ply, 4)
+    WesRating.append(wes.rating)
+    PlyRating.append(ply.rating)
 
-ratingUpdate(wes, ply, 4)
-WesRating.append(wes.rating)
-PlyRating.append(ply.rating)
+    ratingUpdate(winch, wes, -1)
+    WinchRating.append(winch.rating)
+    WesRating.append(wes.rating)
 
-ratingUpdate(winch, wes, -1)
-WinchRating.append(winch.rating)
-WesRating.append(wes.rating)
+    ratingUpdate(rau, The4s, 8)
+    RauRating.append(rau.rating)
+    The4sRating.append(The4s.rating)
 
-ratingUpdate(rau, The4s, 8)
-RauRating.append(rau.rating)
-The4sRating.append(The4s.rating)
+    ratingUpdate(The4s, ply, -2)
+    The4sRating.append(The4s.rating)
+    PlyRating.append(ply.rating)
 
-ratingUpdate(The4s, ply, -2)
-The4sRating.append(The4s.rating)
-PlyRating.append(ply.rating)
+    ratingUpdate(rau, wes, -1)
+    RauRating.append(rau.rating)
+    WesRating.append(wes.rating)
 
-ratingUpdate(rau, wes, -1)
-RauRating.append(rau.rating)
-WesRating.append(wes.rating)
+    ratingUpdate(The4s, rau, 5)
+    The4sRating.append(The4s.rating)
+    RauRating.append(rau.rating)
 
-ratingUpdate(The4s, rau, 5)
-The4sRating.append(The4s.rating)
-RauRating.append(rau.rating)
+    ratingUpdate(wes, winch, 3)
+    WesRating.append(wes.rating)
+    WinchRating.append(winch.rating)
 
-ratingUpdate(wes, winch, 3)
-WesRating.append(wes.rating)
-WinchRating.append(winch.rating)
+    ratingUpdate(ply, rau, 7)
+    PlyRating.append(ply.rating)
+    RauRating.append(rau.rating)
 
-ratingUpdate(ply, rau, 7)
-PlyRating.append(ply.rating)
-RauRating.append(rau.rating)
+    ratingUpdate(The4s, wes, -1)
+    The4sRating.append(The4s.rating)
+    WesRating.append(wes.rating)
 
-ratingUpdate(The4s, wes, -1)
-The4sRating.append(The4s.rating)
-WesRating.append(wes.rating)
+    ratingUpdate(ply, The4s, 2)
+    PlyRating.append(ply.rating)
+    The4sRating.append(The4s.rating)
 
-ratingUpdate(ply, The4s, 2)
-PlyRating.append(ply.rating)
-The4sRating.append(The4s.rating)
+    ratingUpdate(The4s, winch, -3)
+    The4sRating.append(The4s.rating)
+    WinchRating.append(winch.rating)
 
-ratingUpdate(The4s, winch, -3)
-The4sRating.append(The4s.rating)
-WinchRating.append(winch.rating)
+    ratingUpdate(ply, wes, -4)
+    PlyRating.append(ply.rating)
+    WesRating.append(wes.rating)
 
-ratingUpdate(ply, wes, -4)
-PlyRating.append(ply.rating)
-WesRating.append(wes.rating)
+    ratingUpdate(winch, The4s, 0)
+    WinchRating.append(winch.rating)
+    The4sRating.append(The4s.rating)
 
-ratingUpdate(winch, The4s, 0)
-WinchRating.append(winch.rating)
-The4sRating.append(The4s.rating)
+    ratingUpdate(rau, ply, -4)
+    RauRating.append(rau.rating)
+    PlyRating.append(ply.rating)
 
-ratingUpdate(rau, ply, -4)
-RauRating.append(rau.rating)
-PlyRating.append(ply.rating)
+    ratingUpdate(winch, rau, 5)
+    WinchRating.append(winch.rating)
+    RauRating.append(rau.rating)
 
-ratingUpdate(winch, rau, 5)
-WinchRating.append(winch.rating)
-RauRating.append(rau.rating)
+    ratingUpdate(wes, rau, 5)
+    WesRating.append(wes.rating)
+    RauRating.append(rau.rating)
 
-ratingUpdate(wes, rau, 5)
-WesRating.append(wes.rating)
-RauRating.append(rau.rating)
+    ratingUpdate(ply, winch, 5)
+    PlyRating.append(ply.rating)
+    WinchRating.append(winch.rating)
 
-ratingUpdate(ply, winch, 5)
-PlyRating.append(ply.rating)
-WinchRating.append(winch.rating)
+    print(WesRating)
+    print(WinchRating)
+    print(RauRating)
+    print(PlyRating)
+    print(The4sRating)
 
-print(WesRating)
-print(WinchRating)
-print(RauRating)
-print(PlyRating)
-print(The4sRating)
-
-#print(wes.rating, ' ', wes.RD)
-#print(winch.rating, ' ', winch.RD)
-#print(rau.rating, ' ', rau.RD)
-#print(ply.rating, ' ', ply.RD)
-#print(The4s.rating, ' ', The4s.RD)
+    #print(wes.rating, ' ', wes.RD)
+    #print(winch.rating, ' ', winch.RD)
+    #print(rau.rating, ' ', rau.RD)
+    #print(ply.rating, ' ', ply.RD)
+    #print(The4s.rating, ' ', The4s.RD)
 
 
 
