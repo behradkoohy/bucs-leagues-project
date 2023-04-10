@@ -1,0 +1,269 @@
+,names,gs,rd,Home,Team Type,Home Institute,Home Team,Modified Home,Venue Postcode,Lat,Lon,id,league,tier,section
+0,Loughborough Men's 1,3050.598118018828,52.629577906214216,Loughborough Men's 1,Men's,Loughborough,1,Loughborough,LE11 3TU,52.76669999999999,-1.2,35,Premier,Premier,Premier
+1,Durham Men's 1,3044.67302937991,52.618989103990096,Durham Men's 1,Men's,Durham,1,Durham,DH1 3SE,54.77482,-1.56714,188,Premier,Premier,Premier
+2,Exeter Men's 1,3044.5120843226914,52.62800856189479,Exeter Men's 1,Men's,Exeter,1,Exeter,EX4 4QN,50.73776,-3.5297,283,Premier,Premier,Premier
+3,Nottingham Men's 1,3039.4485197811914,52.62893225724802,Nottingham Men's 1,Men's,Nottingham,1,Nottingham,NG7 2PS,52.9536,-1.1505,51,Premier,Premier,Premier
+4,Nottingham Trent Men's 1,3017.908730860759,53.23436679762633,Nottingham Trent Men's 1,Men's,Nottingham Trent,1,Nottingham Trent,NG11 8NS,52.87862,-1.19524,110,Premier,Premier,Premier
+5,Oxford Men's 1,3015.652333268108,52.6289459989046,Oxford Men's 1,Men's,Oxford,1,Oxford,OX4 1SR,51.723725,-1.224375,195,Premier,Premier,Premier
+6,Edinburgh Men's 1,3008.805624184538,52.63173535892635,Edinburgh Men's 1,Men's,Edinburgh,1,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,77,Premier,Premier,Premier
+7,Bath Men's 1,2974.5870718393603,53.228721324429294,Bath Men's 1,Men's,Bath,1,Bath,BA2 7AY,51.35473913043478,-2.3910565217391304,204,Premier,Premier,Premier
+8,Birmingham Men's 1,2969.867567946765,53.23002810555808,Birmingham Men's 1,Men's,Birmingham,1,Birmingham,B15 2GR,52.4623,-1.9212,95,Premier,Premier,Premier
+9,Exeter Men's 2,2352.947633406118,53.21296216704933,Exeter Men's 2,Men's,Exeter,2,Exeter,EX4 4QN,50.73776,-3.5297,284,North/South1,North/South1,1
+10,Nottingham Men's 2,2348.3914387134023,53.22096064052369,Nottingham Men's 2,Men's,Nottingham,2,Nottingham,NG7 2PS,52.9536,-1.1505,54,North/South2,North/South2,2
+11,Nottingham Trent Men's 2,2341.1943686685954,51.51059580664286,Nottingham Trent Men's 2,Men's,Nottingham Trent,2,Nottingham Trent,NG11 8NS,52.87862,-1.19524,108,North/South2,North/South2,2
+12,Manchester Men's 1,2337.188306901463,49.93133649600149,Manchester Men's 1,Men's,Manchester,1,Manchester,M14 6HE,53.4482,-2.2257,273,Premier,Premier,Premier
+13,Reading Men's 1,2329.6522718297265,50.97381701905859,Reading Men's 1,Men's,Reading,1,Reading,RG6 6UR,51.4396,-0.9292,226,North/South1,North/South1,1
+14,Durham Men's 2,2326.0655434094097,52.61939012045205,Durham Men's 2,Men's,Durham,2,Durham,DH1 3SE,54.77482,-1.56714,185,North/South2,North/South2,2
+15,Cambridge Men's 1,2320.251637835824,53.21681520289864,Cambridge Men's 1,Men's,Cambridge,1,Cambridge,CB3 0EQ,52.21142068965517,0.0983172413793103,366,North/South2,North/South2,2
+16,Bristol Men's 2,2314.06562100713,49.92748872127757,Bristol Men's 2,Men's,Bristol,2,Bristol,BS9 2BJ,51.4874,-2.6266,237,North/South1,North/South1,1
+17,Cardiff Met Men's 1,2312.630128221465,53.84553440992138,Cardiff Met Men's 1,Men's,Cardiff Met,1,Cardiff Met,CF5 2YB,51.471875,-3.275816666666667,6,North/South1,North/South1,1
+18,Cardiff Men's 1,2308.345522959652,52.63266121924004,Cardiff Men's 1,Men's,Cardiff,1,Cardiff,CF14 3AT,51.5199,-3.204,10,North/South1,North/South1,1
+19,Birmingham Men's 2,2307.569957598172,53.22387815565047,Birmingham Men's 2,Men's,Birmingham,2,Birmingham,B15 2GR,52.4623,-1.9212,100,North/South2,North/South2,2
+20,Sheffield Hallam Men's 1,2300.9493530341288,52.62472852894567,Sheffield Hallam Men's 1,Men's,Sheffield Hallam,1,Sheffield Hallam,S17 3LJ,53.3205,-1.54055,251,North/South2,North/South2,2
+21,Bristol Men's 1,2300.8740088653813,52.63665227792041,Bristol Men's 1,Men's,Bristol,1,Bristol,BS9 2BJ,51.4874,-2.6266,235,North/South1,North/South1,1
+22,Loughborough Men's 2,2290.199224288155,53.22057837737845,Loughborough Men's 2,Men's,Loughborough,2,Loughborough,LE11 3TU,52.76669999999999,-1.2,38,North/South2,North/South2,2
+23,Warwick Men's 1,2282.404835357264,49.91966535515818,Warwick Men's 1,Men's,Warwick,1,Warwick,CV4 8AH,52.3833,-1.5833000000000002,260,North/South2,North/South2,2
+24,Leeds Beckett Men's 1,2274.6105826112066,52.63281469921203,Leeds Beckett Men's 1,Men's,Leeds Beckett,1,Leeds Beckett,LS6 3QQ,53.8201,-1.5704,310,North/South2,North/South2,2
+25,Oxford Brookes Men's 1,2250.266244285628,53.23106209755464,Oxford Brookes Men's 1,Men's,Oxford Brookes,1,Oxford Brookes,OX3 0GB,51.78040000000001,-1.2171666666666667,125,North/South2,North/South2,2
+26,King's College Men's 1 (GKT),2233.3543479217788,52.621178793521295,King's College Men's 1 (GKT),Men's,King's College (GKT),1,King's College (GKT),SE23 1NW,51.44696666666667,-0.0416666666666666,178,North/South1,North/South1,1
+27,UCL Men's 1,2069.10217294482,49.92524127225009,UCL Men's 1,Men's,UCL,1,UCL,W4 2SH,51.4927,-0.258,68,North/South1,North/South1,1
+28,Southampton Men's 1,2056.5402722704152,50.428595261728894,Southampton Men's 1,Men's,Southampton,1,Southampton,SO50 5PE,50.9627,-1.3284714285714287,221,North/South1,North/South1,1
+29,Kent Men's 1,2049.321096853121,48.95462915869267,Kent Men's 1,Men's,Kent,1,Kent,CT2 7SR,51.29774999999999,1.09156,383,North/South1,North/South1,1
+30,Newcastle Men's 1,2048.3390768136665,50.42792843404009,Newcastle Men's 1,Men's,Newcastle,1,Newcastle,NE12 8AD,55.029,-1.5676,26,Tier1_5,Tier1,5
+31,Bath Men's 2,2045.7300075545324,50.43230001169927,Bath Men's 2,Men's,Bath,2,Bath,BA2 7AY,51.35473913043478,-2.3910565217391304,212,Tier1_2,Tier1,2
+32,Sussex Men's 1,2043.2820310112008,49.91849458297207,Sussex Men's 1,Men's,Sussex,1,Sussex,BN1 9PJ,50.8614,-0.1204166666666666,518,Tier1_1,Tier1,1
+33,Birmingham Men's 3,2042.7487060651683,50.42776645162155,Birmingham Men's 3,Men's,Birmingham,3,Birmingham,B15 2GR,52.4623,-1.9212,104,Tier1_2,Tier1,2
+34,Exeter Men's 3,2041.404454408091,50.434871310102544,Exeter Men's 3,Men's,Exeter,3,Exeter,EX4 4QN,50.73776,-3.5297,293,Tier1_7,Tier1,7
+35,Nottingham Trent Men's 4,2041.3895060837217,49.42942235600948,Nottingham Trent Men's 4,Men's,Nottingham Trent,4,Nottingham Trent,NG11 8NS,52.87862,-1.19524,112,Tier1_4,Tier1,4
+36,Glasgow Men's 1,2038.258587805102,50.9502419931055,Glasgow Men's 1,Men's,Glasgow,1,Glasgow,G20 0SP,55.8906,-4.2904,49,Tier1_5,Tier1,5
+37,Manchester Met Men's 1,2038.2305938784289,49.94398177536927,Manchester Met Men's 1,Men's,Manchester Met,1,Manchester Met,M14 6PA,53.4482,-2.2257,528,Tier1_6,Tier1,6
+38,Nottingham Men's 4,2037.762951887401,50.4264344318252,Nottingham Men's 4,Men's,Nottingham,4,Nottingham,NG7 2PS,52.9536,-1.1505,60,Tier1_4,Tier1,4
+39,Bournemouth Men's 1,2034.2661699543044,49.9241740939245,Bournemouth Men's 1,Men's,Bournemouth,1,Bournemouth,BH23 6BL,50.755406666666666,-1.7577666666666665,458,Tier1_7,Tier1,7
+40,Bristol Men's 3,2030.050719714048,50.9552234225081,Bristol Men's 3,Men's,Bristol,3,Bristol,BS9 2BJ,51.4874,-2.6266,242,Tier1_7,Tier1,7
+41,Nottingham Men's 3,2029.7219041558876,50.4301047013696,Nottingham Men's 3,Men's,Nottingham,3,Nottingham,NG7 2PS,52.9536,-1.1505,62,Tier1_6,Tier1,6
+42,Edinburgh Men's 2,2027.551667002478,49.9260549523019,Edinburgh Men's 2,Men's,Edinburgh,2,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,88,Tier1_3,Tier1,3
+43,Durham Men's 3,2026.9247261288704,49.92438721006365,Durham Men's 3,Men's,Durham,3,Durham,DH1 3SE,54.77482,-1.56714,189,Tier1_5,Tier1,5
+44,Chichester Men's 1,2026.3115991159848,50.43191499195781,Chichester Men's 1,Men's,Chichester,1,Chichester,PO19 6PE,50.8373,-0.77915,573,Tier1_1,Tier1,1
+45,Edinburgh Men's 3,2025.6010590292165,52.04444062210373,Edinburgh Men's 3,Men's,Edinburgh,3,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,87,Tier1_3,Tier1,3
+46,Nottingham Trent Men's 3,2024.53077844176,49.92086916097078,Nottingham Trent Men's 3,Men's,Nottingham Trent,3,Nottingham Trent,NG11 8NS,52.87862,-1.19524,113,Tier1_4,Tier1,4
+47,Lancaster Men's 1,2009.3113784600591,50.41971714938874,Lancaster Men's 1,Men's,Lancaster,1,Lancaster,LA1 4YQ,54.0316,-2.7915,490,Tier1_5,Tier1,5
+48,Portsmouth Men's 1,2006.295670515308,49.92112331616536,Portsmouth Men's 1,Men's,Portsmouth,1,Portsmouth,PO4 8LW,50.78925,-1.06255,439,Tier1_1,Tier1,1
+49,St Andrews Men's 1,2003.9737896626384,50.42737098430417,St Andrews Men's 1,Men's,St Andrews,1,St Andrews,KY16 9DY,56.34,-2.816311111111111,136,Tier1_3,Tier1,3
+50,Heriot-Watt Men's 1,2002.5506976503625,50.435785795006005,Heriot-Watt Men's 1,Men's,Heriot-Watt,1,Heriot-Watt,EH16 5LL,55.92249999999999,-3.1511333333333336,131,Tier1_3,Tier1,3
+51,Swansea Men's 1,1994.4283648318565,52.62508870565237,Swansea Men's 1,Men's,Swansea,1,Swansea,SA2 9AU,51.61628,-4.04254,430,Tier1_7,Tier1,7
+52,Strathclyde Men's 1,1993.795983115113,52.03834837027,Strathclyde Men's 1,Men's,Strathclyde,1,Strathclyde,G33 6ND,55.889,-4.1521,375,Tier1_5,Tier1,5
+53,Leeds Men's 1,1988.612907758397,52.61699106890103,Leeds Men's 1,Men's,Leeds,1,Leeds,LS16 5AU,53.868475,-1.5981,405,Tier1_6,Tier1,6
+54,Oxford Men's 2,1980.687694373417,49.91515109268881,Oxford Men's 2,Men's,Oxford,2,Oxford,OX4 1SR,51.723725,-1.224375,199,Tier1_2,Tier1,2
+55,Liverpool Men's 1,1979.9094388714807,50.4303398309434,Liverpool Men's 1,Men's,Liverpool,1,Liverpool,L18 6HF,53.3805,-2.9086,147,Tier1_6,Tier1,6
+56,Imperial Men's 1,1958.279924010165,52.6168069105155,Imperial Men's 1,Men's,Imperial,1,Imperial,TW7 4NQ,51.4752,-0.3425,334,Tier1_1,Tier1,1
+57,UWE Men's 1,1578.2836200772044,50.9541162680308,UWE Men's 1,Men's,UWE,1,UWE,BS16 1QY,51.49088571428571,-2.5036,298,Tier1_2,Tier1,2
+58,Birmingham City Men's 1,1575.8598819530796,52.63263890959833,Birmingham City Men's 1,Men's,Birmingham City,1,Birmingham City,B42 2TP,52.5158,-1.9017,423,Tier1_4,Tier1,4
+59,Cardiff Men's 2,1560.6228107735867,50.42362318808337,Cardiff Men's 2,Men's,Cardiff,2,Cardiff,CF14 3AT,51.5199,-3.204,8,Tier1_7,Tier1,7
+60,Nottingham Men's 5,1560.6140600205672,50.43104708298101,Nottingham Men's 5,Men's,Nottingham,5,Nottingham,NG7 2PS,52.9536,-1.1505,56,Tier1_4,Tier1,4
+61,Exeter Men's 5,1559.2830189579845,50.952548366269816,Exeter Men's 5,Men's,Exeter,5,Exeter,EX4 4QN,50.73776,-3.5297,282,Tier1_7,Tier1,7
+62,Dundee Men's 1,1556.940899622931,50.94888970851319,Dundee Men's 1,Men's,Dundee,1,Dundee,DD2 1UQ,56.47777692307693,-3.0589461538461538,350,Tier1_3,Tier1,3
+63,York Men's 1,1551.118123496716,50.42699087654226,York Men's 1,Men's,York,1,York,YO10 5NA,53.9576,-1.0827,243,Tier1_6,Tier1,6
+64,Stirling Men's 1,1548.5357188875132,51.48502886606165,Stirling Men's 1,Men's,Stirling,1,Stirling,FK9 4LA,56.1436875,-3.9315,540,Tier1_3,Tier1,3
+65,Durham Men's 4,1545.3068463428947,50.95461899846416,Durham Men's 4,Men's,Durham,4,Durham,DH1 3SE,54.77482,-1.56714,194,Tier1_5,Tier1,5
+66,Surrey Men's 1,1544.6618463864106,49.92107859268761,Surrey Men's 1,Men's,Surrey,1,Surrey,GU2 7AD,51.24385,-0.59775,508,Tier1_1,Tier1,1
+67,Bangor Men's 1,1543.7640120635592,50.94617459043142,Bangor Men's 1,Men's,Bangor,1,Bangor,LL57 2EH,53.203925000000005,-4.106675,278,Tier1_6,Tier1,6
+68,Loughborough Men's 3,1543.1326832828786,49.92189801252989,Loughborough Men's 3,Men's,Loughborough,3,Loughborough,LE11 3TU,52.76669999999999,-1.2,31,Tier1_4,Tier1,4
+69,Birmingham Men's 4,1540.0331657081947,50.95190143315499,Birmingham Men's 4,Men's,Birmingham,4,Birmingham,B15 2GR,52.4623,-1.9212,99,Tier1_2,Tier1,2
+70,Bath Men's 3,1536.8313417425527,50.43299274815013,Bath Men's 3,Men's,Bath,3,Bath,BA2 7AY,51.35473913043478,-2.3910565217391304,206,Tier1_2,Tier1,2
+71,Reading Men's 2,1535.826295294127,50.42754715762796,Reading Men's 2,Men's,Reading,2,Reading,RG6 6UR,51.4396,-0.9292,225,Tier1_1,Tier1,1
+72,Liverpool Men's 2,1535.4633471644745,50.9717528226726,Liverpool Men's 2,Men's,Liverpool,2,Liverpool,L18 6HF,53.3805,-2.9086,148,Tier2_5,Tier2,5
+73,Exeter Men's 4,1533.236919593459,50.42774264939967,Exeter Men's 4,Men's,Exeter,4,Exeter,EX4 4QN,50.73776,-3.5297,290,Tier2_6,Tier2,6
+74,Birmingham Men's 5,1532.6891271035793,50.95155128557168,Birmingham Men's 5,Men's,Birmingham,5,Birmingham,B15 2GR,52.4623,-1.9212,94,Tier2_7,Tier2,7
+75,LSE Men's 1,1527.7622965884589,50.970231297440776,LSE Men's 1,Men's,LSE,1,LSE,E20 3AD,51.5468,-0.0096,466,Tier2_1,Tier2,1
+76,Strathclyde Men's 2,1526.825231069445,50.431344066343335,Strathclyde Men's 2,Men's,Strathclyde,2,Strathclyde,G33 6ND,55.889,-4.1521,373,Tier2_3,Tier2,3
+77,Manchester Men's 2,1525.9584063183852,51.52207954270914,Manchester Men's 2,Men's,Manchester,2,Manchester,M14 6HE,53.4482,-2.2257,268,Tier2_5,Tier2,5
+78,Sheffield Men's 1,1523.4919394483527,50.42953628946343,Sheffield Men's 1,Men's,Sheffield,1,Sheffield,S8 8PS,53.3439,-1.47815,318,Tier2_4,Tier2,4
+79,Glasgow Men's 2,1523.1153475196174,50.95168497130571,Glasgow Men's 2,Men's,Glasgow,2,Glasgow,G20 0SP,55.8906,-4.2904,48,Tier2_3,Tier2,3
+80,Liverpool John Moores Men's 1,1517.2141111621015,50.45115218058855,Liverpool John Moores Men's 1,Men's,Liverpool John Moores,1,Liverpool John Moores,L37 7DP,53.5515,-3.0426333333333333,151,Tier2_5,Tier2,5
+81,Loughborough Men's 4,1515.7035162688053,51.49182552590904,Loughborough Men's 4,Men's,Loughborough,4,Loughborough,LE11 3TU,52.76669999999999,-1.2,30,Tier2_4,Tier2,4
+82,Cardiff Met Men's 2,1512.2815931996,50.42685758054589,Cardiff Met Men's 2,Men's,Cardiff Met,2,Cardiff Met,CF5 2YB,51.471875,-3.275816666666667,1,Tier2_6,Tier2,6
+83,Swansea Men's 2,1511.688930524251,49.9138520235608,Swansea Men's 2,Men's,Swansea,2,Swansea,SA2 9AU,51.61628,-4.04254,426,Tier2_6,Tier2,6
+84,UCL Men's 2 (RUMS),1510.5973712397197,49.934340798688936,UCL Men's 2 (RUMS),Men's,UCL (RUMS),2,UCL (RUMS),EN4 0PS,51.650580000000005,-0.158,75,Tier2_1,Tier2,1
+85,Leeds Men's 2,1509.3521207062554,50.42699757867514,Leeds Men's 2,Men's,Leeds,2,Leeds,LS16 5AU,53.868475,-1.5981,396,Tier2_4,Tier2,4
+86,Portsmouth Men's 2,1509.115539721431,49.91745591358232,Portsmouth Men's 2,Men's,Portsmouth,2,Portsmouth,PO4 8LW,50.78925,-1.06255,435,Tier2_2,Tier2,2
+87,Royal Holloway Men's 1,1503.5254189384325,50.4252334424908,Royal Holloway Men's 1,Men's,Royal Holloway,1,Royal Holloway,TW20 9TR,51.422,-0.5545249999999999,347,Tier2_2,Tier2,2
+88,Oxford Brookes Men's 2,1501.1503564598015,50.95608769013052,Oxford Brookes Men's 2,Men's,Oxford Brookes,2,Oxford Brookes,OX3 0GB,51.78040000000001,-1.2171666666666667,118,Tier2_7,Tier2,7
+89,Sheffield Hallam Men's 2,1500.446391180031,50.42697674050243,Sheffield Hallam Men's 2,Men's,Sheffield Hallam,2,Sheffield Hallam,S17 3LJ,53.3205,-1.54055,250,Tier2_4,Tier2,4
+90,Glasgow Caledonian Men's 1,1500.4126059482064,51.49795222877254,Glasgow Caledonian Men's 1,Men's,Glasgow Caledonian,1,Glasgow Caledonian,G40 1HB,55.8485,-4.2235,325,Tier2_3,Tier2,3
+91,Brunel Men's 1,1495.544394656138,49.93044692622029,Brunel Men's 1,Men's,Brunel,1,Brunel,UB8 3PH,51.537866666666666,-0.4791333333333333,339,Tier2_2,Tier2,2
+92,UWE Men's 2,1495.0461482995952,50.95601610670192,UWE Men's 2,Men's,UWE,2,UWE,BS16 1QY,51.49088571428571,-2.5036,296,Tier2_7,Tier2,7
+93,Northumbria Men's 1,1493.2888370704868,50.950594954020914,Northumbria Men's 1,Men's,Northumbria,1,Northumbria,NE29 6TL,55.0165,-1.4493,502,Tier2_3,Tier2,3
+94,Cambridge Men's 2,1489.166993502461,50.42358486934885,Cambridge Men's 2,Men's,Cambridge,2,Cambridge,CB3 0EQ,52.21142068965517,0.0983172413793103,365,Tier2_1,Tier2,1
+95,Newcastle Men's 2,1486.0966370514368,50.43342986272643,Newcastle Men's 2,Men's,Newcastle,2,Newcastle,NE12 8AD,55.029,-1.5676,21,Tier2_3,Tier2,3
+96,Imperial Men's 2 (Medics),1484.5478075027886,50.94649306768616,Imperial Men's 2 (Medics),Men's,Imperial (Medics),2,Imperial (Medics),UB3 5AQ,51.5158,-0.4234,162,Tier2_2,Tier2,2
+97,St Mary's Men's 1,1480.5330789081495,50.96469042288372,St Mary's Men's 1,Men's,St Mary's,1,St Mary's,TW11 9BE,51.4223,-0.3305,549,Tier2_2,Tier2,2
+98,Canterbury CC Men's 1,1479.8411203724286,50.942342171252655,Canterbury CC Men's 1,Men's,Canterbury CC,1,Canterbury CC,CT3 4AF,51.30005333333334,1.17362,514,Tier2_1,Tier2,1
+99,Warwick Men's 2,1477.147153026776,50.43262796428681,Warwick Men's 2,Men's,Warwick,2,Warwick,CV4 8AH,52.3833,-1.5833000000000002,257,Tier2_7,Tier2,7
+100,Chester: Chester Men's 1,1468.277813826585,62.414449261505474,Chester: Chester Men's 1,Men's,Chester: Chester,1,Chester: Chester,CH1 4AR,53.2239,-2.9434428571428577,578,Tier2_5,Tier2,5
+101,King's College Men's 2,1468.040926972605,49.92065801532625,King's College Men's 2,Men's,King's College,2,King's College,SE23 1NW,51.44696666666667,-0.0416666666666666,459,Tier2_2,Tier2,2
+102,Aberdeen Men's 1,1464.445367400792,50.4309184259956,Aberdeen Men's 1,Men's,Aberdeen,1,Aberdeen,AB24 5RU,57.1437,-2.0981,359,Tier2_3,Tier2,3
+103,Leicester Men's 1,1462.828573902778,50.4306032199008,Leicester Men's 1,Men's,Leicester,1,Leicester,LE2 2LL,52.60181666666667,-1.1167166666666668,475,Tier2_4,Tier2,4
+104,Bath Men's 4,1461.9147163409036,49.92151854814049,Bath Men's 4,Men's,Bath,4,Bath,BA2 7AY,51.35473913043478,-2.3910565217391304,209,Tier2_6,Tier2,6
+105,Coventry Men's 1,1454.676952547571,50.4242746922673,Coventry Men's 1,Men's,Coventry,1,Coventry,CV4 8GP,52.3833,-1.5833000000000002,264,Tier2_7,Tier2,7
+106,Kingston Men's 1,1448.9208479897911,54.46818370931674,Kingston Men's 1,Men's,Kingston,1,Kingston,E20 3AD,51.5468,-0.0096,585,Tier2_1,Tier2,1
+107,Cardiff Men's 3,1439.062995048236,50.42452705913293,Cardiff Men's 3,Men's,Cardiff,3,Cardiff,CF14 3AT,51.5199,-3.204,11,Tier2_6,Tier2,6
+108,Essex Men's 1,1434.0418638500073,49.93130968122712,Essex Men's 1,Men's,Essex,1,Essex,CO4 3SQ,51.92355,0.92045,448,Tier2_1,Tier2,1
+109,Chester Men's 1,1426.010631508152,56.41269497392521,Chester Men's 1,Men's,Chester,1,Chester,CH1 4AR,53.2239,-2.9434428571428577,535,Tier2_5,Tier2,5
+110,Aston Men's 1,1405.808597947655,50.42412978940077,Aston Men's 1,Men's,Aston,1,Aston,B43 7AJ,52.5472,-1.9319,201,Tier2_4,Tier2,4
+111,Plymouth Men's 1,1405.0325589061,51.48630955120412,Plymouth Men's 1,Men's,Plymouth,1,Plymouth,PL6 8BH,50.41898333333333,-4.113466666666667,454,Tier2_6,Tier2,6
+112,Gloucestershire Men's 1,1398.9076739323202,49.91479938108602,Gloucestershire Men's 1,Men's,Gloucestershire,1,Gloucestershire,GL2 9DW,51.85873125,-2.2777125,411,Tier2_7,Tier2,7
+113,Liverpool John Moores Men's 2,1296.295759059613,50.42684135012675,Liverpool John Moores Men's 2,Men's,Liverpool John Moores,2,Liverpool John Moores,L37 7DP,53.5515,-3.0426333333333333,150,Tier2_5,Tier2,5
+114,Edinburgh Napier Men's 1,1285.3741986368775,59.554962383000046,Edinburgh Napier Men's 1,Men's,Edinburgh Napier,1,Edinburgh Napier,EH16 5LL,55.92249999999999,-3.1511333333333336,153,Tier3_4,Tier3,4
+115,Nottingham Men's 6,1279.4007975891943,53.22121242231641,Nottingham Men's 6,Men's,Nottingham,6,Nottingham,NG7 2PS,52.9536,-1.1505,55,Tier3_5,Tier3,5
+116,Exeter Men's 6,1278.959931305591,51.49621444079881,Exeter Men's 6,Men's,Exeter,6,Exeter,EX4 4QN,50.73776,-3.5297,288,Tier3_2,Tier3,2
+117,Kent Men's 2,1264.9708157762375,51.50223760166936,Kent Men's 2,Men's,Kent,2,Kent,CT2 7SR,51.29774999999999,1.09156,385,Tier3_1,Tier3,1
+118,Loughborough Men's 5,1258.662186493677,50.44090574262418,Loughborough Men's 5,Men's,Loughborough,5,Loughborough,LE11 3TU,52.76669999999999,-1.2,32,Tier3_5,Tier3,5
+119,York Men's 2,1255.3260198877329,51.4830581758715,York Men's 2,Men's,York,2,York,YO10 5NA,53.9576,-1.0827,246,Tier3_6,Tier3,6
+120,Queen Mary Men's 1 (Barts),1247.0842077502905,62.39487258041514,Queen Mary Men's 1 (Barts),Men's,Queen Mary (Barts),1,Queen Mary (Barts),E20 3AD,51.5468,-0.0096,568,Tier3_1,Tier3,1
+121,Queen Mary Men's 2,1240.2406460164984,62.39486905677262,Queen Mary Men's 2,Men's,Queen Mary,2,Queen Mary,E20 3AD,51.5468,-0.0096,493,Tier3_1,Tier3,1
+122,East Anglia Men's 1,1239.3137366911722,50.97661981459896,East Anglia Men's 1,Men's,East Anglia,1,East Anglia,NR4 7TJ,52.61646,1.24368,494,Tier3_1,Tier3,1
+123,Cardiff Men's 4 (Medics),1233.799604501556,50.42526968758123,Cardiff Men's 4 (Medics),Men's,Cardiff (Medics),4,Cardiff (Medics),CF14 3AT,51.5199,-3.204,418,Tier3_2,Tier3,2
+124,East Anglia Men's 2,1231.9446791754324,59.60729110636065,East Anglia Men's 2,Men's,East Anglia,2,East Anglia,NR4 7TJ,52.61646,1.24368,496,Tier3_1,Tier3,1
+125,Queen Mary Men's 2 (Barts),1231.932742499415,56.42410598183091,Queen Mary Men's 2 (Barts),Men's,Queen Mary (Barts),2,Queen Mary (Barts),E20 3AD,51.5468,-0.0096,567,Tier3_3,Tier3,3
+126,Hull Men's 1,1230.3589871723457,51.47435815600787,Hull Men's 1,Men's,Hull,1,Hull,HU6 8JG,53.8011,-0.3714,537,Tier3_6,Tier3,6
+127,Roehampton Men's 1,1229.8125729170392,51.49237116509376,Roehampton Men's 1,Men's,Roehampton,1,Roehampton,SW15 5JQ,51.45653333333333,-0.2306,410,Tier3_3,Tier3,3
+128,Edinburgh Men's 4,1229.5812315896046,50.96391382849909,Edinburgh Men's 4,Men's,Edinburgh,4,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,86,Tier3_4,Tier3,4
+129,Nottingham Trent Men's 5,1224.504325884949,60.439559013326445,Nottingham Trent Men's 5,Men's,Nottingham Trent,5,Nottingham Trent,NG11 8NS,52.87862,-1.19524,114,Tier3_5,Tier3,5
+130,Harper Adams Men's 1,1222.9529947031217,52.0609372560312,Harper Adams Men's 1,Men's,Harper Adams,1,Harper Adams,TF10 8NB,52.765905,-2.350815,303,Tier3_5,Tier3,5
+131,Manchester Men's 3,1221.885750614558,51.4911669253942,Manchester Men's 3,Men's,Manchester,3,Manchester,M14 6HE,53.4482,-2.2257,270,Tier3_6,Tier3,6
+132,Reading Men's 3,1221.790338613726,51.50823437325573,Reading Men's 3,Men's,Reading,3,Reading,RG6 6UR,51.4396,-0.9292,227,Tier3_7,Tier3,7
+133,Imperial Men's 3,1221.1814653572849,50.98123789759517,Imperial Men's 3,Men's,Imperial,3,Imperial,TW7 4NQ,51.4752,-0.3425,333,Tier3_3,Tier3,3
+134,Bristol Men's 5,1218.793302159822,52.03933082227604,Bristol Men's 5,Men's,Bristol,5,Bristol,BS9 2BJ,51.4874,-2.6266,236,Tier3_2,Tier3,2
+135,Bristol Men's 4,1217.1400973633945,50.42510856197716,Bristol Men's 4,Men's,Bristol,4,Bristol,BS9 2BJ,51.4874,-2.6266,240,Tier3_2,Tier3,2
+136,Keele Men's 1,1215.6394784930922,50.950727077219625,Keele Men's 1,Men's,Keele,1,Keele,ST5 5BG,53.00718,-2.253533333333333,504,Tier3_5,Tier3,5
+137,Cardiff Men's 5,1215.3430178023807,51.49732800461958,Cardiff Men's 5,Men's,Cardiff,5,Cardiff,CF14 3AT,51.5199,-3.204,16,Tier3_2,Tier3,2
+138,City Men's 1,1211.0993154291975,49.94065167711553,City Men's 1,Men's,City,1,City,E20 3AD,51.5468,-0.0096,175,Tier3_3,Tier3,3
+139,St Andrews Men's 2,1210.3163555382544,52.04218303024901,St Andrews Men's 2,Men's,St Andrews,2,St Andrews,KY16 9DY,56.34,-2.816311111111111,133,Tier3_4,Tier3,4
+140,Leeds Beckett Men's 2,1208.4287344129978,50.42998725912055,Leeds Beckett Men's 2,Men's,Leeds Beckett,2,Leeds Beckett,LS6 3QQ,53.8201,-1.5704,306,Tier3_6,Tier3,6
+141,Brighton Men's 1,1207.3263367470809,50.44956292206704,Brighton Men's 1,Men's,Brighton,1,Brighton,BN21 1EA,50.7687,0.2845,368,Tier3_1,Tier3,1
+142,Edinburgh Men's 5,1207.1027701588096,51.497568059655535,Edinburgh Men's 5,Men's,Edinburgh,5,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,89,Tier3_4,Tier3,4
+143,Oxford Brookes Men's 3,1204.0570767857416,52.63016087653672,Oxford Brookes Men's 3,Men's,Oxford Brookes,3,Oxford Brookes,OX3 0GB,51.78040000000001,-1.2171666666666667,124,Tier3_7,Tier3,7
+144,Lancaster Men's 2,1203.1427736898104,50.95058190407208,Lancaster Men's 2,Men's,Lancaster,2,Lancaster,LA1 4YQ,54.0316,-2.7915,485,Tier3_4,Tier3,4
+145,Sheffield Men's 2,1200.1286178458447,50.42892850597862,Sheffield Men's 2,Men's,Sheffield,2,Sheffield,S8 8PS,53.3439,-1.47815,314,Tier3_6,Tier3,6
+146,Salford Men's 1,1196.8637925853068,52.05116780062007,Salford Men's 1,Men's,Salford,1,Salford,WA15 7LU,53.3761,-2.3331,483,Tier3_6,Tier3,6
+147,Staffordshire Men's 1,1192.074963695698,55.83071906097031,Staffordshire Men's 1,Men's,Staffordshire,1,Staffordshire,ST15 0BW,52.90192307692308,-2.122292307692308,591,Tier3_5,Tier3,5
+148,King's College Men's 3 (GKT),1189.4845416979815,50.46426315063531,King's College Men's 3 (GKT),Men's,King's College (GKT),3,King's College (GKT),SE23 1NW,51.44696666666667,-0.0416666666666666,179,Tier3_3,Tier3,3
+149,Oxford Men's 3,1184.5126709154115,49.92965408620533,Oxford Men's 3,Men's,Oxford,3,Oxford,OX4 1SR,51.723725,-1.224375,196,Tier3_7,Tier3,7
+150,Durham Men's 5,1182.3179479899804,50.433437631202,Durham Men's 5,Men's,Durham,5,Durham,DH1 3SE,54.77482,-1.56714,191,Tier3_4,Tier3,4
+151,Imperial Men's 4,1181.6299120686804,66.49857625300203,Imperial Men's 4,Men's,Imperial,4,Imperial,TW7 4NQ,51.4752,-0.3425,335,Tier3_7,Tier3,7
+152,Southampton Men's 2,1176.2486399740978,51.49462180207703,Southampton Men's 2,Men's,Southampton,2,Southampton,SO50 5PE,50.9627,-1.3284714285714287,219,Tier3_7,Tier3,7
+153,Bath Men's 5,1174.610736453007,50.955515540973366,Bath Men's 5,Men's,Bath,5,Bath,BA2 7AY,51.35473913043478,-2.3910565217391304,210,Tier3_7,Tier3,7
+154,UCL Men's 3,1167.2689753148252,50.43716317679913,UCL Men's 3,Men's,UCL,3,UCL,W4 2SH,51.4927,-0.258,69,Tier3_3,Tier3,3
+155,Swansea Men's 3,1165.3282285400992,50.9525897778439,Swansea Men's 3,Men's,Swansea,3,Swansea,SA2 9AU,51.61628,-4.04254,427,Tier3_2,Tier3,2
+156,Lincoln Men's 1,1164.938253186476,50.95926109389755,Lincoln Men's 1,Men's,Lincoln,1,Lincoln,LN6 7TS,53.18841538461538,-0.6413692307692307,481,Tier4_4,Tier4,4
+157,Edge Hill Men's 1,1161.5363477284286,49.92884124420311,Edge Hill Men's 1,Men's,Edge Hill,1,Edge Hill,L39 4QP,53.555600000000005,-2.9094100000000003,519,Tier4_2,Tier4,2
+158,Bournemouth Men's 2,1156.4365774561616,51.49006984644126,Bournemouth Men's 2,Men's,Bournemouth,2,Bournemouth,BH23 6BL,50.755406666666666,-1.7577666666666665,457,Tier4_1,Tier4,1
+159,Leeds Men's 3,1153.3775913788536,50.429610963524745,Leeds Men's 3,Men's,Leeds,3,Leeds,LS16 5AU,53.868475,-1.5981,402,Tier4_2,Tier4,2
+160,St George's Men's 1,1152.951944539335,50.44806275046599,St George's Men's 1,Men's,St George's,1,St George's,KT7 0AE,51.3896,-0.3393,169,Tier4_1,Tier4,1
+161,Heriot-Watt Men's 2,1146.2013845938227,50.96063574709935,Heriot-Watt Men's 2,Men's,Heriot-Watt,2,Heriot-Watt,EH16 5LL,55.92249999999999,-3.1511333333333336,129,Tier4_3,Tier4,3
+162,Solent Men's 1,1118.429478786171,51.49568345220652,Solent Men's 1,Men's,Solent,1,Solent,SO16 7AY,50.942125,-1.431825,554,Tier4_1,Tier4,1
+163,Derby Men's 1,1109.003674580269,53.81728167676749,Derby Men's 1,Men's,Derby,1,Derby,DE22 1JD,52.9531,-1.521125,213,Tier4_4,Tier4,4
+164,Warwick Men's 3,1106.5523735461384,52.06361207261229,Warwick Men's 3,Men's,Warwick,3,Warwick,CV4 8AH,52.3833,-1.5833000000000002,258,Tier4_5,Tier4,5
+165,Aberystwyth Men's 1,1097.3216511646983,51.49040385311006,Aberystwyth Men's 1,Men's,Aberystwyth,1,Aberystwyth,SA48 7BX,52.154116,-4.1118,473,Tier4_6,Tier4,6
+166,Strathclyde Men's 3,1092.064306605394,54.48595217144766,Strathclyde Men's 3,Men's,Strathclyde,3,Strathclyde,G33 6ND,55.889,-4.1521,377,Tier4_3,Tier4,3
+167,Queen Mary Men's 1,1081.7246198621924,55.71397644227076,Queen Mary Men's 1,Men's,Queen Mary,1,Queen Mary,E20 3AD,51.5468,-0.0096,491,Tier4_7,Tier4,7
+168,Abertay Men's 1,1068.0281096130998,51.524221519276736,Abertay Men's 1,Men's,Abertay,1,Abertay,DD4 7AA,56.490550000000006,-2.940783333333333,156,Tier4_3,Tier4,3
+169,Robert Gordon Men's 1,989.4688909249096,54.48906295904895,Robert Gordon Men's 1,Men's,Robert Gordon,1,Robert Gordon,AB15 8AR,57.1378,-2.1663,555,Tier4_3,Tier4,3
+170,Marjon Men's 1,988.5126491118848,58.83334304144955,Marjon Men's 1,Men's,Marjon,1,Marjon,PL6 8BH,50.41898333333333,-4.113466666666667,552,Tier4_6,Tier4,6
+171,Glasgow Men's 3,951.9238731630994,53.86345265281828,Glasgow Men's 3,Men's,Glasgow,3,Glasgow,G20 0SP,55.8906,-4.2904,44,Tier4_3,Tier4,3
+172,Exeter Men's 7,947.4020911669372,67.75736128743836,Exeter Men's 7,Men's,Exeter,7,Exeter,EX4 4QN,50.73776,-3.5297,286,Tier4_6,Tier4,6
+173,UCL Men's 4 (RUMS),940.2608382685164,49.48108570341824,UCL Men's 4 (RUMS),Men's,UCL (RUMS),4,UCL (RUMS),EN4 0PS,51.650580000000005,-0.158,71,Tier4_7,Tier4,7
+174,Liverpool Men's 3,936.9902219828112,50.442579203484776,Liverpool Men's 3,Men's,Liverpool,3,Liverpool,L18 6HF,53.3805,-2.9086,146,Tier4_2,Tier4,2
+175,Lancaster Men's 3,935.333708914701,53.82343594924505,Lancaster Men's 3,Men's,Lancaster,3,Lancaster,LA1 4YQ,54.0316,-2.7915,489,Tier4_2,Tier4,2
+176,York Men's 3,931.9374109315116,54.49495622134855,York Men's 3,Men's,York,3,York,YO10 5NA,53.9576,-1.0827,245,Tier4_2,Tier4,2
+177,Bristol Men's 6,930.0020840964906,54.52140564877334,Bristol Men's 6,Men's,Bristol,6,Bristol,BS9 2BJ,51.4874,-2.6266,238,Tier4_6,Tier4,6
+178,King's College Men's 4,929.5070541636215,53.850994694443706,King's College Men's 4,Men's,King's College,4,King's College,SE23 1NW,51.44696666666667,-0.0416666666666666,460,Tier4_7,Tier4,7
+179,Sheffield Men's 3,928.73710496315,52.05541959525721,Sheffield Men's 3,Men's,Sheffield,3,Sheffield,S8 8PS,53.3439,-1.47815,315,Tier4_4,Tier4,4
+180,USW Men's 1,926.7156497086984,58.05583193629407,USW Men's 1,Men's,USW,1,USW,CF37 5UP,51.613815384615386,-3.3598076923076925,327,Tier4_6,Tier4,6
+181,Swansea Men's 4,923.9432826017472,57.28279755250357,Swansea Men's 4,Men's,Swansea,4,Swansea,SA2 9AU,51.61628,-4.04254,432,Tier4_6,Tier4,6
+182,Nottingham Trent Men's 6,922.2406158214778,69.04519403989283,Nottingham Trent Men's 6,Men's,Nottingham Trent,6,Nottingham Trent,NG11 8NS,52.87862,-1.19524,111,Tier4_4,Tier4,4
+183,Loughborough Men's 6,921.6399461522724,66.60033181400138,Loughborough Men's 6,Men's,Loughborough,6,Loughborough,LE11 3TU,52.76669999999999,-1.2,37,Tier4_4,Tier4,4
+184,Sheffield Men's 4,920.8875694813872,54.47206444627909,Sheffield Men's 4,Men's,Sheffield,4,Sheffield,S8 8PS,53.3439,-1.47815,317,Tier4_2,Tier4,2
+185,Royal Holloway Men's 2,918.867068357735,53.23602849637214,Royal Holloway Men's 2,Men's,Royal Holloway,2,Royal Holloway,TW20 9TR,51.422,-0.5545249999999999,346,Tier4_1,Tier4,1
+186,Birmingham Men's 6,917.0447008454772,62.37300478646328,Birmingham Men's 6,Men's,Birmingham,6,Birmingham,B15 2GR,52.4623,-1.9212,93,Tier4_5,Tier4,5
+187,UCL Men's 5,916.3998194269492,52.0717715130183,UCL Men's 5,Men's,UCL,5,UCL,W4 2SH,51.4927,-0.258,64,Tier4_7,Tier4,7
+188,Warwick Men's 4,915.5683060923568,56.57468526383286,Warwick Men's 4,Men's,Warwick,4,Warwick,CV4 8AH,52.3833,-1.5833000000000002,261,Tier4_5,Tier4,5
+189,Royal Agricultural Men's 1,913.9283650637344,52.66480251674638,Royal Agricultural Men's 1,Men's,Royal Agricultural,1,Royal Agricultural,GL7 6JS,51.716703389830506,-1.880654237288136,526,Tier4_5,Tier4,5
+190,Oxford Brookes Men's 6,912.3308260071992,70.41231780437613,Oxford Brookes Men's 6,Men's,Oxford Brookes,6,Oxford Brookes,OX3 0GB,51.78040000000001,-1.2171666666666667,123,Tier4_1,Tier4,1
+191,Nottingham Men's 7,912.1546227342384,66.601802310621,Nottingham Men's 7,Men's,Nottingham,7,Nottingham,NG7 2PS,52.9536,-1.1505,53,Tier4_4,Tier4,4
+192,Sussex Men's 2,908.226102533726,49.935123766621295,Sussex Men's 2,Men's,Sussex,2,Sussex,BN1 9PJ,50.8614,-0.1204166666666666,515,Tier4_1,Tier4,1
+193,Edinburgh Men's 6,908.2237031285616,54.50381709768643,Edinburgh Men's 6,Men's,Edinburgh,6,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,79,Tier4_3,Tier4,3
+194,Oxford Brookes Men's 4,906.0354370123482,54.56891200128498,Oxford Brookes Men's 4,Men's,Oxford Brookes,4,Oxford Brookes,OX3 0GB,51.78040000000001,-1.2171666666666667,128,Tier4_5,Tier4,5
+195,Coventry Men's 2,904.393842057658,60.56956220702197,Coventry Men's 2,Men's,Coventry,2,Coventry,CV4 8GP,52.3833,-1.5833000000000002,266,Tier4_5,Tier4,5
+196,Imperial Men's 5 (Medics),902.975882726818,64.27556617929044,Imperial Men's 5 (Medics),Men's,Imperial (Medics),5,Imperial (Medics),UB3 5AQ,51.5158,-0.4234,163,Tier4_7,Tier4,7
+197,Anglia Ruskin Men's 1,900.1559484292003,64.36336917330154,Anglia Ruskin Men's 1,Men's,Anglia Ruskin,1,Anglia Ruskin,CB3 0EQ,52.21142068965517,0.0983172413793103,595,Tier4_7,Tier4,7
+198,Bedfordshire Men's 1,900.1227375466201,64.40873502421708,Bedfordshire Men's 1,Men's,Bedfordshire,1,Bedfordshire,LU1 3JU,51.8693,-0.42528,571,Tier5_6,Tier5,6
+199,Surrey Men's 2,898.5289688154712,49.91998182899587,Surrey Men's 2,Men's,Surrey,2,Surrey,GU2 7AD,51.24385,-0.59775,506,Tier5_7,Tier5,7
+200,Leeds Men's 5,894.7855106454949,55.81441106178696,Leeds Men's 5,Men's,Leeds,5,Leeds,LS16 5AU,53.868475,-1.5981,400,Tier5_1,Tier5,1
+201,Northampton Men's 1,893.0776645103127,58.88957257392661,Northampton Men's 1,Men's,Northampton,1,Northampton,NN3 7QL,52.27582,-0.83308,379,Tier5_6,Tier5,6
+202,Plymouth Men's 2,892.8624983455685,55.828429715971886,Plymouth Men's 2,Men's,Plymouth,2,Plymouth,PL6 8BH,50.41898333333333,-4.113466666666667,452,Tier5_4,Tier5,4
+203,Oxford Brookes Men's 5,892.6888631723541,60.54721472357123,Oxford Brookes Men's 5,Men's,Oxford Brookes,5,Oxford Brookes,OX3 0GB,51.78040000000001,-1.2171666666666667,127,Tier5_4,Tier5,4
+204,Edinburgh Men's 7,891.5025321829289,69.02312689304611,Edinburgh Men's 7,Men's,Edinburgh,7,Edinburgh,EH16 5LL,55.92249999999999,-3.1511333333333336,82,Tier5_1,Tier5,1
+205,Aberdeen Men's 2,889.3827642235523,54.501206755184114,Aberdeen Men's 2,Men's,Aberdeen,2,Aberdeen,AB24 5RU,57.1437,-2.0981,356,Tier5_2,Tier5,2
+206,Dundee Men's 2,888.4693696612246,54.49352522215064,Dundee Men's 2,Men's,Dundee,2,Dundee,DD2 1UQ,56.47777692307693,-3.0589461538461538,349,Tier5_2,Tier5,2
+207,Canterbury CC Men's 2,887.2357325949704,51.49811161284342,Canterbury CC Men's 2,Men's,Canterbury CC,2,Canterbury CC,CT3 4AF,51.30005333333334,1.17362,511,Tier5_3,Tier5,3
+208,Gloucestershire Men's 2,884.3015811523047,64.42938523077892,Gloucestershire Men's 2,Men's,Gloucestershire,2,Gloucestershire,GL2 9DW,51.85873125,-2.2777125,413,Tier5_4,Tier5,4
+209,Birmingham City Men's 2,883.915247147339,66.65882140745514,Birmingham City Men's 2,Men's,Birmingham City,2,Birmingham City,B42 2TP,52.5158,-1.9017,424,Tier5_5,Tier5,5
+210,Imperial Men's 6,883.1917762172105,56.42999162655583,Imperial Men's 6,Men's,Imperial,6,Imperial,TW7 4NQ,51.4752,-0.3425,332,Tier5_3,Tier5,3
+211,Manchester Men's 4,883.1347036552047,50.43782953779791,Manchester Men's 4,Men's,Manchester,4,Manchester,M14 6HE,53.4482,-2.2257,274,Tier5_1,Tier5,1
+212,Winchester Men's 1,877.0668322412419,55.81498429905886,Winchester Men's 1,Men's,Winchester,1,Winchester,SO23 0QA,51.07606666666667,-1.3140666666666665,524,Tier5_7,Tier5,7
+213,Aston Men's 2,875.6518581829154,66.65883162418646,Aston Men's 2,Men's,Aston,2,Aston,B43 7AJ,52.5472,-1.9319,203,Tier5_5,Tier5,5
+214,Sheffield Hallam Men's 3,875.3782523036243,50.44545405770239,Sheffield Hallam Men's 3,Men's,Sheffield Hallam,3,Sheffield Hallam,S17 3LJ,53.3205,-1.54055,253,Tier5_5,Tier5,5
+215,Southampton Men's 3,875.2950499789799,52.09135011885365,Southampton Men's 3,Men's,Southampton,3,Southampton,SO50 5PE,50.9627,-1.3284714285714287,217,Tier5_7,Tier5,7
+216,Imperial Men's 4 (Medics),875.21809044521,54.48973612531214,Imperial Men's 4 (Medics),Men's,Imperial (Medics),4,Imperial (Medics),UB3 5AQ,51.5158,-0.4234,166,Tier5_3,Tier5,3
+217,LSE Men's 2,874.6852296044844,53.22048160828378,LSE Men's 2,Men's,LSE,2,LSE,E20 3AD,51.5468,-0.0096,468,Tier5_3,Tier5,3
+218,Anglia Ruskin Men's 1 (Cambridge),874.3646951619468,64.4359829637806,Anglia Ruskin Men's 1 (Cambridge),Men's,Anglia Ruskin (Cambridge),1,Anglia Ruskin (Cambridge),CB3 0EQ,52.21142068965517,0.0983172413793103,583,Tier5_6,Tier5,6
+219,Chichester Men's 2,873.0217557535948,62.393924803874,Chichester Men's 2,Men's,Chichester,2,Chichester,PO19 6PE,50.8373,-0.77915,574,Tier5_7,Tier5,7
+220,Harper Adams Men's 2,870.5490221706506,66.6614761457411,Harper Adams Men's 2,Men's,Harper Adams,2,Harper Adams,TF10 8NB,52.765905,-2.350815,305,Tier5_5,Tier5,5
+221,St Andrews Men's 3,868.5066358043086,54.505029842480106,St Andrews Men's 3,Men's,St Andrews,3,St Andrews,KY16 9DY,56.34,-2.816311111111111,137,Tier5_2,Tier5,2
+222,Leeds Men's 4,866.1512677537128,52.065731357134965,Leeds Men's 4,Men's,Leeds,4,Leeds,LS16 5AU,53.868475,-1.5981,398,Tier5_1,Tier5,1
+223,Newcastle Men's 3,865.2410871161685,50.44129063082667,Newcastle Men's 3,Men's,Newcastle,3,Newcastle,NE12 8AD,55.029,-1.5676,22,Tier5_1,Tier5,1
+224,Brunel Men's 2,863.1767332823838,54.512314875683046,Brunel Men's 2,Men's,Brunel,2,Brunel,UB8 3PH,51.537866666666666,-0.4791333333333333,340,Tier5_3,Tier5,3
+225,Stirling Men's 3,861.656887811964,64.4237651099776,Stirling Men's 3,Men's,Stirling,3,Stirling,FK9 4LA,56.1436875,-3.9315,546,Tier5_2,Tier5,2
+226,Essex Men's 2,860.980273609118,62.40026885611282,Essex Men's 2,Men's,Essex,2,Essex,CO4 3SQ,51.92355,0.92045,450,Tier5_6,Tier5,6
+227,Manchester Met Men's 2,860.4653824646307,50.42986635482397,Manchester Met Men's 2,Men's,Manchester Met,2,Manchester Met,M14 6PA,53.4482,-2.2257,529,Tier5_5,Tier5,5
+228,Stirling Men's 2,858.8851521046913,54.48852573634223,Stirling Men's 2,Men's,Stirling,2,Stirling,FK9 4LA,56.1436875,-3.9315,541,Tier5_2,Tier5,2
+229,Lincoln Men's 2,858.5112224993625,62.354027363173465,Lincoln Men's 2,Men's,Lincoln,2,Lincoln,LN6 7TS,53.18841538461538,-0.6413692307692307,482,Tier5_6,Tier5,6
+230,Hertfordshire Men's 1,851.4103599871248,50.96074722516955,Hertfordshire Men's 1,Men's,Hertfordshire,1,Hertfordshire,AL10 9EU,51.7634,-0.2242,393,Tier5_3,Tier5,3
+231,Portsmouth Men's 3,851.3844046224826,50.44819992922943,Portsmouth Men's 3,Men's,Portsmouth,3,Portsmouth,PO4 8LW,50.78925,-1.06255,437,Tier5_7,Tier5,7
+232,Leicester Men's 2,849.1442015532352,55.20849047835253,Leicester Men's 2,Men's,Leicester,2,Leicester,LE2 2LL,52.60181666666667,-1.1167166666666668,478,Tier5_6,Tier5,6
+233,Aberdeen Men's 3,847.8134418143591,64.44118859706876,Aberdeen Men's 3,Men's,Aberdeen,3,Aberdeen,AB24 5RU,57.1437,-2.0981,363,Tier5_2,Tier5,2
+234,Cumbria Men's 1,843.417657952771,50.95122511507636,Cumbria Men's 1,Men's,Cumbria,1,Cumbria,LA1 3DY,54.0316,-2.7915,415,Tier5_1,Tier5,1
+235,De Montfort Men's 1,834.8287799592839,54.5462490823635,De Montfort Men's 1,Men's,De Montfort,1,De Montfort,LE12 7FG,52.78191071428571,-1.1845107142857143,343,Tier5_5,Tier5,5
+236,Southampton Men's 4,817.5615003597158,55.12448291920169,Southampton Men's 4,Men's,Southampton,4,Southampton,SO50 5PE,50.9627,-1.3284714285714287,216,Tier5_7,Tier5,7
+237,Bath Spa Men's 1,806.5999509513626,59.582288986235,Bath Spa Men's 1,Men's,Bath Spa,1,Bath Spa,BA11 2SA,51.216945,-2.351325,471,Tier5_4,Tier5,4
+238,Worcester Men's 1,803.6340186997136,59.67427942071911,Worcester Men's 1,Men's,Worcester,1,Worcester,WR3 7SW,52.2304,-2.1928,390,Tier5_4,Tier5,4
+239,UWE Men's 3,794.405675351984,52.683073673765385,UWE Men's 3,Men's,UWE,3,UWE,BS16 1QY,51.49088571428571,-2.5036,299,Tier5_4,Tier5,4
+240,Imperial Men's 5,774.2870598915514,55.83699439630156,Imperial Men's 5,Men's,Imperial,5,Imperial,TW7 4NQ,51.4752,-0.3425,336,Tier6_1,Tier6,1
+241,Reading Men's 4,735.7013976951474,62.33850821761365,Reading Men's 4,Men's,Reading,4,Reading,RG6 6UR,51.4396,-0.9292,230,Tier6_5,Tier6,5
+242,Bradford Men's 1,735.4607168635246,55.82831085571505,Bradford Men's 1,Men's,Bradford,1,Bradford,BD9 4JP,53.8128,-1.7919,561,Tier6_2,Tier6,2
+243,Royal Veterinary College Men's 1,734.4098313617513,58.05185044486867,Royal Veterinary College Men's 1,Men's,Royal Veterinary College,1,Royal Veterinary College,EN6 3BW,51.69798000000001,-0.1830999999999999,441,Tier6_1,Tier6,1
+244,Newcastle Men's 4,731.5017908578973,57.26170765885421,Newcastle Men's 4,Men's,Newcastle,4,Newcastle,NE12 8AD,55.029,-1.5676,28,Tier6_3,Tier6,3
+245,York Men's 4,728.081050693177,61.37615497903221,York Men's 4,Men's,York,4,York,YO10 5NA,53.9576,-1.0827,249,Tier6_4,Tier6,4
+246,UCLan Men's 1,713.2505092861601,55.808472871463096,UCLan Men's 1,Men's,UCLan,1,UCLan,PR2 1SG,53.78298,-2.69214,548,Tier6_4,Tier6,4
+247,Queen Mary Men's 3 (Barts),708.0272882453729,65.50311934028042,Queen Mary Men's 3 (Barts),Men's,Queen Mary (Barts),3,Queen Mary (Barts),E20 3AD,51.5468,-0.0096,569,Tier6_3,Tier6,3
+248,Northumbria Men's 2,707.1676394547768,59.6182302107747,Northumbria Men's 2,Men's,Northumbria,2,Northumbria,NE29 6TL,55.0165,-1.4493,499,Tier6_4,Tier6,4
+249,Imperial Men's 7,704.5999974395374,64.41989575910405,Imperial Men's 7,Men's,Imperial,7,Imperial,TW7 4NQ,51.4752,-0.3425,337,Tier6_2,Tier6,2
+250,Imperial Men's 6 (Medics),700.8908461794042,65.52109107914954,Imperial Men's 6 (Medics),Men's,Imperial (Medics),6,Imperial (Medics),UB3 5AQ,51.5158,-0.4234,165,Tier6_1,Tier6,1
+251,Kent Men's 3,697.0747718418729,56.546361609934806,Kent Men's 3,Men's,Kent,3,Kent,CT2 7SR,51.29774999999999,1.09156,386,Tier6_3,Tier6,3
+252,Bangor Men's 2,689.4132804739689,59.65312698237397,Bangor Men's 2,Men's,Bangor,2,Bangor,LL57 2EH,53.203925000000005,-4.106675,279,Tier6_5,Tier6,5
+253,York St John Men's 1,678.3609321272033,55.18386068618814,York St John Men's 1,Men's,York St John,1,York St John,YO8 4BL,53.77469393939394,-1.0269030303030302,560,Tier6_2,Tier6,2
+254,East London Men's 1,674.8647103452108,65.51120804656884,East London Men's 1,Men's,East London,1,East London,E20 3AD,51.5468,-0.0096,588,Tier6_1,Tier6,1
+255,Manchester Men's 5,674.6297751813252,56.54077483420723,Manchester Men's 5,Men's,Manchester,5,Manchester,M14 6HE,53.4482,-2.2257,276,Tier6_4,Tier6,4
+256,Imperial Men's 7 (Medics),665.1419043149197,60.47517646824571,Imperial Men's 7 (Medics),Men's,Imperial (Medics),7,Imperial (Medics),UB3 5AQ,51.5158,-0.4234,161,Tier6_2,Tier6,2
+257,Hull Men's 2,664.7348964307382,58.86956850433895,Hull Men's 2,Men's,Hull,2,Hull,HU6 8JG,53.8011,-0.3714,539,Tier6_3,Tier6,3
+258,King's College Men's 5 (GKT),664.6175175649552,56.55563344973648,King's College Men's 5 (GKT),Men's,King's College (GKT),5,King's College (GKT),SE23 1NW,51.44696666666667,-0.0416666666666666,180,Tier6_3,Tier6,3
+259,Greenwich Men's 1,653.9909265729902,58.85015327627541,Greenwich Men's 1,Men's,Greenwich,1,Greenwich,SE9 2UG,51.44698000000001,0.05428,388,Tier6_3,Tier6,3
+260,UCL Men's 6 (RUMS),653.1658205557453,54.51027781085172,UCL Men's 6 (RUMS),Men's,UCL (RUMS),6,UCL (RUMS),EN4 0PS,51.650580000000005,-0.158,74,Tier6_1,Tier6,1
+261,Leeds Men's 6,643.3788231419308,56.54871944219432,Leeds Men's 6,Men's,Leeds,6,Leeds,LS16 5AU,53.868475,-1.5981,407,Tier6_2,Tier6,2
+262,Huddersfield Men's 1,641.9839265305258,55.830793416137006,Huddersfield Men's 1,Men's,Huddersfield,1,Huddersfield,HD4 6EN,53.6239,-1.7485,433,Tier6_4,Tier6,4
+263,Chester: Chester Men's 2,638.755421342207,64.43829811864396,Chester: Chester Men's 2,Men's,Chester: Chester,2,Chester: Chester,CH1 4AR,53.2239,-2.9434428571428577,580,Tier6_5,Tier6,5
+264,Bucks New Men's 1,636.5619437203289,55.187611307214816,Bucks New Men's 1,Men's,Bucks New,1,Bucks New,HP7 9HN,51.66548333333333,-0.6173166666666666,445,Tier6_1,Tier6,1
+265,Wrexham Glyndwr Men's 1,630.6779369781018,53.83253103707984,Wrexham Glyndwr Men's 1,Men's,Wrexham Glyndwr,1,Wrexham Glyndwr,LL11 2AW,53.064506666666674,-3.052973333333333,172,Tier6_5,Tier6,5
+266,Bolton Men's 1,623.67729007041,52.65772874621569,Bolton Men's 1,Men's,Bolton,1,Bolton,BL1 5BP,53.5833,-2.4333,171,Tier6_4,Tier6,4
+267,Leeds Beckett Men's 3,622.6537020295365,53.2486962408172,Leeds Beckett Men's 3,Men's,Leeds Beckett,3,Leeds Beckett,LS6 3QQ,53.8201,-1.5704,309,Tier6_2,Tier6,2
